@@ -1,3 +1,4 @@
+
 public class main1 {
     public static void main(String[] args) {
         System.out.println(moltiplicare(2, 3));
@@ -12,4 +13,6 @@ public class main1 {
     public static int moltiplicare(int x, int y) {
         return x * y;
     }
+    //3
+
 }
